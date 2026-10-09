@@ -30,7 +30,7 @@ The filter handles:
 ## Quick start
 
 ```bash
-git clone https://github.com/your-username/radar-track-filter
+git clone https://github.com/Pietrofox/radar-track-filter
 cd radar-track-filter
 pip install numpy matplotlib   # matplotlib only for plots
 python examples/demo.py --no-plot   # metrics only, no display needed
